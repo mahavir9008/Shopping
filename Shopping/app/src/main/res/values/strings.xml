@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ProductView</string>
+
+    <string name="title_product_details">Item Description</string>
+    <string name="internet_status">Internet not Available</string>
+    <string name="product_image">Product Image</string>
+</resources>

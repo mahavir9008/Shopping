@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="nameTitle">17sp</dimen>
+    <dimen name="imageSize">80dp</dimen>
+    <dimen name="imageMargin">8dp</dimen>
+</resources>
